@@ -1,0 +1,7 @@
+url: https://github.com/xxccdl/LensComputerControl
+name: xxccdl/LensComputerControl
+category: tools
+description:
+  en: 'Windows desktop control: windows are scanned into numbered candidates (UIA, Windows OCR, solid-color blobs, table projection, template anchors); a coordinate check returns the click area as a green box with a magnifier, and coordinate clicks preview before they land.'
+  zh: 'Windows 桌面控制：窗口扫成编号候选（UIA / Windows OCR / 实心色块 / 表格投影 / 模板锚点）；坐标检验把点击范围画成绿框并附放大镜，坐标点击默认先预览不落点。'
+icon: https://raw.githubusercontent.com/xxccdl/LensComputerControl/main/docs/icon-180.png
